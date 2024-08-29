@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer student
 -------------------------
 
-I'm year3 student at KMITL in Software Engineering
+I'm year4 student at KMITL in Software Engineering
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chananon.ck@gmail.com](mailto:chananon.ck@gmail.com)
