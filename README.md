@@ -8,7 +8,7 @@ I'm year3 student at KMITL in Software Engineering
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chananon.ck@gmail.com](mailto:chananon.ck@gmail.com)
-* 🧠  I'm learning CSS, React, Postgrest
+* 🧠  I'm learning NodeJS, Flutter, and React
 
 ### Skills
 
